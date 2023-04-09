@@ -1,0 +1,22 @@
+{
+  "name": "skinwalker",
+  "version": "0.0.1",
+  "description": "A customizable javascript logging library",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penevl/skinwalker.git"
+  },
+  "author": "Lyubomir Penev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penevl/skinwalker/issues"
+  },
+  "homepage": "https://github.com/penevl/skinwalker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
