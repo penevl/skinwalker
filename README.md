@@ -26,7 +26,7 @@ logger.init('INFO', {
     errorFileLocation: './errorFileLogs/',
 })
 
-logger.info('Yo mama\'s so stupid, she stared at a cup of orange juice for 12 hours because it said "concentrate."')
+logger.info('Yo mama\'s so fat, when she skips a meal, the stock market drops.')
 ```
 
 # Changing names of logfiles
@@ -71,7 +71,7 @@ logger.init('INFO', {
     errorMessageFormat: 'hh-mm-ss-SSS',
 })
 
-logger.info('Yo mama\'s so ugly, her portraits hang themselves.')
+logger.info('Yo mama so old, she walked into an antique store, and they didn\'t let her leave.')
 ```
 
 Format string are as follows
@@ -99,7 +99,7 @@ logger.init('INFO', {
     errorWriteFile: true,
 })
 
-logger.info('Yo mama\'s so ugly, her portraits hang themselves.')
+logger.info('Yo mama\'s teeth so yellow, I can\'t believe it\'s not butter.')
 ```
 
 # Changing logger properties during runtime
