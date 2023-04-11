@@ -2,7 +2,7 @@
   "name": "skinwalker",
   "version": "0.0.1",
   "description": "A customizable javascript logging library",
-  "main": "src/index.js",
+  "main": "lib/skinwalker.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
