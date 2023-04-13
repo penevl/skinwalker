@@ -1,6 +1,6 @@
 {
   "name": "skinwalker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A customizable javascript logging library",
   "main": "lib/skinwalker.js",
   "scripts": {
